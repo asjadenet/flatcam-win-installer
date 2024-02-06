@@ -19,3 +19,7 @@ Open PowerShell as an administrator.
 	.\setup-flatcam.ps1
 	
 Enjoy!
+
+Link to YouTube video:
+
+<https://youtu.be/Z8XEcXDwRAE>
